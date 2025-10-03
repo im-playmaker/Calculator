@@ -24,5 +24,6 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 - `Calculator`: Under this Java class you can change UI and make this calculator more advanced.
 
+## 📸 Screenshots
 
 ![alt text]({23EA19CF-99AE-4F1C-A69A-4FABAEC38AC7}.png)
