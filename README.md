@@ -1,6 +1,7 @@
-## Getting Started
+## JavaFX Calculator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple calculator application built using JavaFX.
+It supports basic arithmetic operations such as addition, subtraction, multiplication, and division with a user-friendly graphical interface.
 
 ## Folder Structure
 
@@ -16,3 +17,12 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## Update Code
+
+- `src`: You can change source code from this folder.
+
+- `Calculator`: Under this Java class you can change UI and make this calculator more advanced.
+
+
+![alt text]({23EA19CF-99AE-4F1C-A69A-4FABAEC38AC7}.png)
